@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Juan Pablo
 #### I am Full-stack developer
-![I am Full-stack developer](https://github.com/Dev-JuanPa/juan-profile-assets/blob/main/dev_juanpa.png)
+![I am Full-stack developer](https://github.com/Dev-JuanPa/juan-profile-assets/blob/main/dev.juanpa.png)
 
 # 👋 Hi there! I'm Juan
 
